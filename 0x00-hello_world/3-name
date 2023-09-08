@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -c $CSILE -o cisfun
+gcc  $CSILE -o cisfun
