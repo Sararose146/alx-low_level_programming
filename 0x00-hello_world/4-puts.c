@@ -3,10 +3,9 @@
 /**
  * Main -  the starter point
  *
- * Description: A C program that  prints with puts function
+ * description: A C program that prints with puts function
  *
  * Return: always 0 (success)
-*
 */
 int main(void)
 {
