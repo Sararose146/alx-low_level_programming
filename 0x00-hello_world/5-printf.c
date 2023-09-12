@@ -1,15 +1,12 @@
-#include <stdio.h>
-
+#include<stdio.h>
 /**
- * main - int main function is the starter  point
- *
- * Description: a prgrame with printf function
- *
- * Return: always 0(success)
- */
-
+* main - Entry point
+*
+* Return: Always 0 (Success)
+*/
 int main(void)
 {
-	printf("with proper grammar, but the outcome is a piece of art,/n");
+	printf("with proper grammar, but the outcome is a piece of art,\n");
 	return (0);
 }
+
