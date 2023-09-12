@@ -1,12 +1,12 @@
 #include <stdio.h>
 
 /**
- * main - entry point
+ * main - int main function is the starter  point
  *
- * description: a prgrame with printf function
+ * Description: a prgrame with printf function
  *
- * return: always 0(success)
-*/
+ * Return: always 0(success)
+ */
 
 int main(void)
 {
